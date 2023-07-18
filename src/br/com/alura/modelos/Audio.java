@@ -6,7 +6,7 @@ public class Audio {
     private int ano;
     private double totalReproducoes;
     private double totalCurtidas;
-    private double classificacao;
+
 
     public String getTitulo() {
         return titulo;
