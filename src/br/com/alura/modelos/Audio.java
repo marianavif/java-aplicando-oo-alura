@@ -49,8 +49,7 @@ public class Audio {
     }
 
     public String duracaoEmMinutos(int duracaoEmSegundos) {
-        String duracao = String.format("%dmin %ds", (duracaoEmSegundos/60), (duracaoEmSegundos%60));
-        return duracao;
+        return String.format("%dmin %ds", (duracaoEmSegundos/60), (duracaoEmSegundos%60));
     }
 
     public int getClassificacao() {
