@@ -17,8 +17,8 @@ Reproduza, curta e exiba a ficha técnica de cada faixa. Veja sua avaliação, d
 o número total de reproduções. Dependendo do quão alto é esse percentual, mensagens diferentes
 aparecem na tela aplicando o filtro de recomendação.
 
-#### Main
+#### Principal
 
-Na classe *main*, crio os objetos *primeiraMusica* e *segundaMusica*, do tipo *Musica*, e *primeiroPodcast* e *segundoPodcast*
+Na classe *Principal*, crio os objetos *primeiraMusica* e *segundaMusica*, do tipo *Musica*, e *primeiroPodcast* e *segundoPodcast*
 do tipo *Podcast*. Especifico seus atributose executo os métodos *reproduzir()* e *curtir()* diversas vezes. Então exibo suas fichas técnicas através do método *exibeFichaTecnica()*. O programa me retorna uma mensagem com os
 atributos definidos e a classificação do objeto em relação às suas curtidas e reproduções.
