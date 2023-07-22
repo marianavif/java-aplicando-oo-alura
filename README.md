@@ -6,7 +6,7 @@
 
 *Projeto Final do curso Java: aplicando Orientação a Objetos da Alura*
 
-### Sistema para áudio: músicas e podcasts.
+### Sistema para áudio: músicas e podcasts
 
 Registre cada áudio especificando título, duração em segundos e ano de lançamento.
 O áudio pode ainda ser do tipo Música ou Podcast. Para música, especifique artista performista,
